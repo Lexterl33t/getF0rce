@@ -18,7 +18,7 @@ class GetForce
 			
 			begin
 				request = open("#{replace_var}")
-				puts "Size: #{request.length}\nStatus: #{request.status}".green
+				puts "ID: #{line}\nSize: #{request.length}\nStatus: #{request.status}".green
 			rescue OpenURI::HTTPError
 				puts "Size: 0\nStatus: 404".red
 					
