@@ -3,16 +3,7 @@ require 'colorize'
 
 
 
-=begin
-	
-	Bonjour je vais aujourd'hui développer un script permettant le bruteforce de get cela vous permettra par exemle de bruteforce un id par l'intermediaire d'une wordlist voilà c'est partie on va faire un truc complet faut savoir que qunad je fais des video speed coding je n'ai pas dev le script à l'avance c'est pourquoi je m'aide de stack overflow
-	ou des doc de Ruby
 
-go :)
-
-FUCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKkkkk
-2 fois que je recommande ce fils de pute de vim
-=end
 
 class GetForce
 	
